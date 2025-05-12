@@ -1,1 +1,12 @@
 models/yolov8n.pt
+venv/
+*.pt
+*.pth
+*.h5
+*.onnx
+*.ckpt
+*.tflite
+*.pb
+*.dylib
+*.so
+*.bin
